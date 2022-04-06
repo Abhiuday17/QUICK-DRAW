@@ -34,3 +34,7 @@ p{
 img{
     width: 90%;
 }
+
+canvas{
+    margin-top: 100px;
+}
